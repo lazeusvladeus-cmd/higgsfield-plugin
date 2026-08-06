@@ -1,0 +1,13 @@
+﻿{
+  "name": "higgsfield-marketplace",
+  "owner": {
+    "name": "Vlad"
+  },
+  "plugins": [
+    {
+      "name": "higgsfield-plugin",
+      "source": "./",
+      "description": "Higgsfield skills for marketing, advertising, email writing and infographics"
+    }
+  ]
+}
